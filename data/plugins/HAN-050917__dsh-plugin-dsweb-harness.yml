@@ -1,0 +1,6 @@
+url: https://github.com/HAN-050917/dsh-plugin-dsweb-harness
+name: HAN-050917/dsh-plugin-dsweb-harness
+category: ui
+description:
+  en: Integrates chat.deepseek.com into DSH with a dedicated chat tab.
+  zh: 将 chat.deepseek.com 接入 DSH，在左侧栏添加「聊天」页签。
