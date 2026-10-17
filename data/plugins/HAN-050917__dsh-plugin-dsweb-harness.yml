@@ -2,5 +2,5 @@ url: https://github.com/HAN-050917/dsh-plugin-dsweb-harness
 name: HAN-050917/dsh-plugin-dsweb-harness
 category: ui
 description:
-  en: Integrates chat.deepseek.com into DSH with a dedicated chat tab.
-  zh: 将 chat.deepseek.com 接入 DSH，在左侧栏添加「聊天」页签。
+  en: 'Brings chat.deepseek.com into DSH as a first-class surface: a Chat/Work switch beside the agent mode, your real web-chat history in the leftmost sidebar, streaming answers with thinking and web search, syntax-highlighted code blocks, and file uploads whose parsed text stays askable across turns.'
+  zh: '把 chat.deepseek.com 做成 DSH 的一等界面：代理模式旁的「聊天/工作」切换、最左侧侧栏里的真实网页版会话记录、带思考与联网搜索的流式回答、彩色语法高亮的代码块，以及解析后可持续追问的文件上传。'
